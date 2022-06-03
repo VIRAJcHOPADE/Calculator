@@ -1,6 +1,4 @@
-import "./styles.css";
 
-document.getElementById("app").innerHTML = ``;
 
 var buttons = document.getElementsByClassName("all");
 var display = document.getElementById("display");
